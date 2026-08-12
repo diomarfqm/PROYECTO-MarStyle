@@ -8,6 +8,9 @@ MarStyle
 ## Objetivo
 Desarrollar un sistema de software para gestionar productos, inventario y ventas de la tienda MarStyle.
 
+## Descripción
+Este proyecto busca facilitar la gestión de los productos, el inventario y las ventas de MarStyle.
+
 ## Integrantes
 - Diomar Quesada
 - Nombre del integrante 2
